@@ -1,3 +1,9 @@
+swift (1.7.5~rax1) lucid; urgency=low
+
+  * Fix object-replicator bug
+
+ -- David Goetz <david.goetz@rackspace.com>  Tue, 02 Oct 2012 12:13:49 -0700
+
 swift (1.7.1~rax1) lucid; urgency=low
 
   * Packaging a prerelease of 1.7.1, see the branch at:
